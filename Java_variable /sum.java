@@ -5,8 +5,8 @@ public static void main(String[] args)
 int x = 10, y = 20, z = 40; 
 int sum = x + y + z; 
 float avg = sum / 3.0f; 
-System.out.println(“SUM is : “ + sum); 
-System.out.println(“AVERAGE is : “ + avg); 
+System.out.println("SUM is : " + sum); 
+System.out.println("AVERAGE is : " + avg); 
 } 
 } 
 
